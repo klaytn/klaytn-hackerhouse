@@ -5,3 +5,4 @@ These are advanced developments you can make a tiny application based on Klaytn.
 2. [Buy me a coffee](buy-me-a-coffee/README.md)
 3. [Lottery using commit-reveal random](lottery-using-commit-reveal-random/README.md)
 4. [Discord bot](discord-bot/README.md)
+5. [tx latency measurement](tx-latency-measurement/README.md)

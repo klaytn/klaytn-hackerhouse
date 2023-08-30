@@ -13,3 +13,4 @@ hackerhouse is for learning blockchain skills based on the Klaytn network. You c
 2. [Buy me a coffee](advanced-development/buy-me-a-coffee/README.md)
 3. [Lottery using commit-reveal random](advanced-development/lottery-using-commit-reveal-random/README.md)
 4. [Discord bot](advanced-development/discord-bot/README.md)
+5. [tx latency measurement](tx-latency-measurement/README.md)
