@@ -10,7 +10,6 @@ hackerhouse is for learning blockchain skills based on the Klaytn network. You c
 
 ### Advanced Development
 1. [Tiny service with Klaytn features](advanced-development/tiny-service-with-klaytn-features/README.md)
-2. [NFT minting](advanced-development/nft-minting/README.md)
-3. [Buy me a coffee](advanced-development/buy-me-a-coffee/README.md)
-4. [Lottery using commit-reveal random](advanced-development/lottery-using-commit-reveal-random/README.md)
-5. [Discord bot](advanced-development/discord-bot/README.md)
+2. [Buy me a coffee](advanced-development/buy-me-a-coffee/README.md)
+3. [Lottery using commit-reveal random](advanced-development/lottery-using-commit-reveal-random/README.md)
+4. [Discord bot](advanced-development/discord-bot/README.md)
