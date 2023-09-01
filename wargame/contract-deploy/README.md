@@ -11,3 +11,6 @@
 #### How to call the verify function?
   - Using klaytnscope’s [WriteContract](https://scope.klaytn.com/account/0x941d2Cf7dcE933b9928281A6Dcc4166386747D3E?tabId=contractCode) feature
   - Using [caver-js](https://www.npmjs.com/package/caver-js) or [web3klaytn](https://github.com/klaytn/web3klaytn)
+
+#### Lecture
+- [Klaytn Dev Bootcamp #5](https://www.youtube.com/watch?v=7gSsFxqFbGk&list=PLmYPZbd2veWKWZGbT3kxnjRr9sJAYDiOs&index=5)

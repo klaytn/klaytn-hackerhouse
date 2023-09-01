@@ -36,3 +36,6 @@ async function main() {
 - Setup the `fee payer's private key`. Some KLAY should be in this account
 - You should use `0xfc735e99` data that means calling verify function in the input field or of cource can use the contract instance web3 SDKs offer.
 - Use the `TxType.FeeDelegatedSmartContractExecution` for transaction type
+
+#### Lecture
+- [Klaytn Dev Bootcamp #3](https://www.youtube.com/watch?v=NJbTWPYTpTg&list=PLmYPZbd2veWKWZGbT3kxnjRr9sJAYDiOs&index=3)

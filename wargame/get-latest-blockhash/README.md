@@ -8,6 +8,9 @@
 - Sender who calling the verify by transaction will get the NFT!
 
 #### How to call the verify function?
-  - Using klaytnfinder’s [WriteContract](https://www.klaytnfinder.io/account/0x941d2cf7dce933b9928281a6dcc4166386747d3e?tabId=contract&subTabId=writeContract) feature
-  - Using klaytnscope’s [WriteContract](https://scope.klaytn.com/account/0x941d2Cf7dcE933b9928281A6Dcc4166386747D3E?tabId=contractCode) feature
-  - Using [caver-js](https://www.npmjs.com/package/caver-js) or [web3klaytn](https://github.com/klaytn/web3klaytn)
+- Using klaytnfinder’s [WriteContract](https://www.klaytnfinder.io/account/0x941d2cf7dce933b9928281a6dcc4166386747d3e?tabId=contract&subTabId=writeContract) feature
+- Using klaytnscope’s [WriteContract](https://scope.klaytn.com/account/0x941d2Cf7dcE933b9928281A6Dcc4166386747D3E?tabId=contractCode) feature
+- Using [caver-js](https://www.npmjs.com/package/caver-js) or [web3klaytn](https://github.com/klaytn/web3klaytn)
+
+#### Lecture
+- [Klaytn Dev Bootcamp #1](https://www.youtube.com/watch?v=ziMfkJhvtpA&list=PLmYPZbd2veWKWZGbT3kxnjRr9sJAYDiOs&index=1)
