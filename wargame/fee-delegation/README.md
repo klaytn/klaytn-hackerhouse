@@ -38,4 +38,4 @@ async function main() {
 - Use the `TxType.FeeDelegatedSmartContractExecution` for transaction type
 
 #### Lecture
-- [Klaytn Dev Bootcamp #3](https://www.youtube.com/watch?v=NJbTWPYTpTg&list=PLmYPZbd2veWKWZGbT3kxnjRr9sJAYDiOs&index=3)
+- [Klaytn Dev Bootcamp #3](https://www.youtube.com/watch?v=NJbTWPYTpTg&list=PLmYPZbd2veWKWZGbT3kxnjRr9sJAYDiOs&index=3) (korean)

@@ -13,4 +13,4 @@
   - Using [caver-js](https://www.npmjs.com/package/caver-js) or [web3klaytn](https://github.com/klaytn/web3klaytn)
 
 #### Lecture
-- [Klaytn Dev Bootcamp #5](https://www.youtube.com/watch?v=7gSsFxqFbGk&list=PLmYPZbd2veWKWZGbT3kxnjRr9sJAYDiOs&index=5)
+- [Klaytn Dev Bootcamp #5](https://www.youtube.com/watch?v=7gSsFxqFbGk&list=PLmYPZbd2veWKWZGbT3kxnjRr9sJAYDiOs&index=5) (korean)

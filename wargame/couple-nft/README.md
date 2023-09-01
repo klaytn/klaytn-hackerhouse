@@ -89,4 +89,4 @@ const sigHash = ethers.utils.keccak256(ttx.sigRLP());
 ```
 
 #### Lecture
-- [Klaytn Dev Bootcamp #4](https://www.youtube.com/watch?v=QAz9PM3gB3Q&list=PLmYPZbd2veWKWZGbT3kxnjRr9sJAYDiOs&index=4)
+- [Klaytn Dev Bootcamp #4](https://www.youtube.com/watch?v=QAz9PM3gB3Q&list=PLmYPZbd2veWKWZGbT3kxnjRr9sJAYDiOs&index=4) (korean)
